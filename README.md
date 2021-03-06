@@ -9,9 +9,7 @@ __Install Kali NetHunter on any stock, unrooted Android device without voiding t
 
 Android Device (Stock unmodified device, no root or custom recovery required)
 
-
-
-**Installation:**
+**__Installation__:**
 
 # 1 
 Install the NetHunter-Store app from store.nethunter.com | **You can also download the Files from this Github Page!**
@@ -57,7 +55,7 @@ I wouldn't use any Andriod device for any real/and or actual PenTesting/Training
 
 *Guide* - `https://www.kali.org/docs/nethunter/nethunter-rootless/`
 
-*APP Link* `https://store.nethunter.com/`
+*APP*   - `https://store.nethunter.com/`
 
 **TIPS:**
 Run sudo apt update && sudo apt full-upgrade -y first thing after installation to update Kali. If you have plenty of storage space available you might want to run sudo apt install -y kali-linux-default as well.
