@@ -22,16 +22,18 @@ Open Termux & Type
 
   chmod +x install-nethunter-termux
 
- ./install-nethunter-termux```
+ ./install-nethunter-termux
+ ```
 __Commands__
 
-nethunter - Start Kali NetHunter command line interface
+```nethunter - Start Kali NetHunter command line interface
 
 nethunter kex passwd - Configure the KeX password (only needed before 1st use)
 
 nethunter kex & - start Kali NetHunter Desktop Experience user sessions
 
 nethunter kex stop - Stop Kali NetHunter Desktop Experience`
+```
 
 *Note: The command nethunter can be abbreviated to nh. Tip: If you run kex in the background (&) without having set a password, bring it back to the foreground first when prompted to enter the password, i.e. via fg <job id> - you can later send it to the background again via Ctrl + z and bg <job id>
 To use KeX, start the KeX client, enter your password and click connect Tip: For a better viewing experience, enter a custom resolution under “Advanced Settings” in the KeX Client*
