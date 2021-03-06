@@ -1,5 +1,5 @@
 # NetHunter-Rootless
-Install Kali NetHunter on any stock &amp; Unrooted Android device without voiding the warranty.
+__Install Kali NetHunter on any stock &amp; Unrooted Android device without voiding the warranty.__
 
 <h1> How to Install Nethunter with KeX (rootless) </h1> 
 
@@ -15,8 +15,11 @@ Android Device (Stock unmodified device, no root or custom recovery required)
 
 # 1 
 Install the NetHunter-Store app from store.nethunter.com | **You can also download the Files from this Github Page!**
-
-From the NetHunter Store, install Termux, NetHunter-KeX client, and Hacker’s keyboard Note: The button “install” may not change to “installed” in the store client after installation - just ignore it. Starting termux for the first time may seem stuck while displaying “installing” on some devices - just hit enter.
+**From the NetHunter Store, install**
+`Termux`
+`NetHunter-KeX client`
+`Hacker’s keyboard` 
+*Note: The button “install” may not change to “installed” in the store client after installation - just ignore it. Starting termux for the first time may seem stuck while displaying “installing” on some devices - just hit enter.*
 
 # 2  
 Open Termux & Type 
