@@ -14,7 +14,7 @@ From the NetHunter Store, install Termux, NetHunter-KeX client, and Hacker’
 
 2 ) 
 Open Termux & Type 
-```termux-setup-storage
+``termux-setup-storage
 
 pkg install wget
 
@@ -22,7 +22,7 @@ wget -O install-nethunter-termux https://offs.ec/2MceZWr
 
 chmod +x install-nethunter-termux
 
-./install-nethunter-termux```
+./install-nethunter-termux``
 __Commands__
 
 `nethunter - Start Kali NetHunter command line interface
